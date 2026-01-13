@@ -1,21 +1,10 @@
-# oil-mediums-uzb
-The quantification of SFA, MUFA, PUFA, and TFA in extracted oils from meals cooked in households/restaurants in Uzbeksitan using FTIR and benchtop/high-field 1H NMR
+Research Project Template
+=========================
 
+### Overview
+This repository sets out the skeleton of an organizational structure used for scientific research. It loosely follows what I have used for several of my research projects and I hope it inspires you to conduct your research in an open, reproducible, and honest manner.
 
-This repository contains data and code associated with the paper:
-
-> Mavlanov U., Czaja T.P., Khakimov B.  
-> *Title of the paper*  
-> Journal of Food Composition and Analysis (Year)
-
-## Repository structure
-- `data/processed/` – data used for figures and models
-- `code/` – Python scripts for preprocessing, analysis, and plotting
-- `notebooks/` – step-by-step analysis notebooks
-- `figures/` – final figures used in the manuscript
-
-## Reproducibility
-To reproduce the main results:
-1. Create the environment:
-   ```bash
-   conda env create -f environment.yml
+### How to Use
+To use this template for your research, fork this repository, change the name
+to something descriptive for your project, and adjust the licensing as you
+see fit.
