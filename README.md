@@ -1,10 +1,8 @@
-Research Project Template
-=========================
+Research Project ID: oil-mediums-uzb
+====================================
 
 ### Overview
-This repository sets out the skeleton of an organizational structure used for scientific research. It loosely follows what I have used for several of my research projects and I hope it inspires you to conduct your research in an open, reproducible, and honest manner.
+This repository sets out the skeleton of the study we have conducted. The study is about the quantification of SFA, MUFA, PUFA, and TFA using benchtop/high-field 1H NMR spectroscopy.
 
 ### How to Use
-To use this template for your research, fork this repository, change the name
-to something descriptive for your project, and adjust the licensing as you
-see fit.
+To use this template for your research, 
