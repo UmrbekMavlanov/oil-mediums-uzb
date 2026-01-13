@@ -2,8 +2,6 @@
 The quantification of SFA, MUFA, PUFA, and TFA in extracted oils from meals cooked in households/restaurants in Uzbeksitan using FTIR and benchtop/high-field 1H NMR
 
 
-# Benchtop NMR and FTIR quantification of trans fatty acids
-
 This repository contains data and code associated with the paper:
 
 > Mavlanov U., Czaja T.P., Khakimov B.  
